@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "category": "Answerable - NDA",
+    "question": "What is the duration of confidentiality obligations after termination under the NDA?",
+    "expected_document": "Mutual_NDA_Agreement.pdf",
+    "expected_page": 2,
+    "expected_answer_keywords": ["five", "5 years", "survive"],
+    "is_answerable": true
+  },
+  {
+    "id": 2,
+    "category": "Answerable - Lease",
+    "question": "What is the monthly base rent and security deposit amount for the commercial lease?",
+    "expected_document": "Commercial_Lease_Agreement.pdf",
+    "expected_page": 1,
+    "expected_answer_keywords": ["12,500", "10,000", "security deposit"],
+    "is_answerable": true
+  },
+  {
+    "id": 3,
+    "category": "Answerable - SaaS",
+    "question": "What is the guaranteed Service Level Agreement (SLA) uptime percentage in the SaaS Terms?",
+    "expected_document": "SaaS_Terms_of_Service.pdf",
+    "expected_page": 1,
+    "expected_answer_keywords": ["99.9%", "uptime"],
+    "is_answerable": true
+  },
+  {
+    "id": 4,
+    "category": "Answerable - SaaS",
+    "question": "What is the total liability cap of CloudScale Systems under the SaaS agreement?",
+    "expected_document": "SaaS_Terms_of_Service.pdf",
+    "expected_page": 1,
+    "expected_answer_keywords": ["12", "twelve months", "fees paid"],
+    "is_answerable": true
+  },
+  {
+    "id": 5,
+    "category": "Answerable - Lease",
+    "question": "How many days advance notice is required to terminate the Commercial Lease for convenience at the end of the initial 24-month term?",
+    "expected_document": "Commercial_Lease_Agreement.pdf",
+    "expected_page": 2,
+    "expected_answer_keywords": ["ninety", "90 days"],
+    "is_answerable": true
+  },
+  {
+    "id": 6,
+    "category": "Answerable - NDA",
+    "question": "Which governing law applies to the Mutual Non-Disclosure Agreement?",
+    "expected_document": "Mutual_NDA_Agreement.pdf",
+    "expected_page": 2,
+    "expected_answer_keywords": ["New York", "State of New York"],
+    "is_answerable": true
+  },
+  {
+    "id": 7,
+    "category": "Unanswerable Refusal Test",
+    "question": "What is the monetary penalty fee for patent infringement in the Mutual NDA?",
+    "expected_document": "Mutual_NDA_Agreement.pdf",
+    "expected_page": null,
+    "expected_answer_keywords": ["I don't know", "not mention", "do not contain"],
+    "is_answerable": false
+  },
+  {
+    "id": 8,
+    "category": "Unanswerable Refusal Test",
+    "question": "Are pet dogs allowed in the commercial office space according to the Lease Agreement?",
+    "expected_document": "Commercial_Lease_Agreement.pdf",
+    "expected_page": null,
+    "expected_answer_keywords": ["I don't know", "not mention", "do not contain"],
+    "is_answerable": false
+  },
+  {
+    "id": 9,
+    "category": "Unanswerable Refusal Test",
+    "question": "What is the hourly rate for custom software development in the SaaS Terms?",
+    "expected_document": "SaaS_Terms_of_Service.pdf",
+    "expected_page": null,
+    "expected_answer_keywords": ["I don't know", "not mention", "do not contain"],
+    "is_answerable": false
+  },
+  {
+    "id": 10,
+    "category": "Unanswerable Refusal Test",
+    "question": "Does the SaaS provider offer a 100% money-back guarantee for customer dissatisfaction?",
+    "expected_document": "SaaS_Terms_of_Service.pdf",
+    "expected_page": null,
+    "expected_answer_keywords": ["I don't know", "not mention", "do not contain"],
+    "is_answerable": false
+  }
+]

@@ -1,0 +1,86 @@
+# ==========================================
+# GroundLex AI - Root .gitignore
+# ==========================================
+
+# --- Environment Variables & Secrets ---
+.env
+.env.local
+.env.*.local
+*.env
+
+# --- Python & Virtual Environments ---
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+backend/venv/
+backend/.venv/
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# --- Vector Database & Local Storage ---
+chroma_db/
+backend/chroma_db/
+backend/app/chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+
+# --- Node.js & Frontend ---
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.npm/
+.eslintcache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --- IDEs & Code Editors ---
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# --- Operating System Files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Logs & Temporary Files ---
+*.log
+logs/
+tmp/
+temp/
+.gemini/

@@ -1,0 +1,10 @@
+{
+  "overall_score": 80.0,
+  "retrieval_precision": 83.33333333333334,
+  "answer_accuracy": 66.66666666666666,
+  "hallucination_refusal_rate": 100.0,
+  "total_test_cases": 10,
+  "llm_provider": "openai",
+  "model_name": "gpt-4o-mini",
+  "embedding_provider": "huggingface"
+}

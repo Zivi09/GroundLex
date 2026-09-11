@@ -1,0 +1,760 @@
+{
+  "conversations": {
+    "conv_50818a72b6": {
+      "id": "conv_50818a72b6",
+      "title": "Custom Renamed Security Deposit Query",
+      "created_at": "2026-09-06T17:27:56.264756Z",
+      "updated_at": "2026-09-06T17:27:56.329084Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the Security Deposit amount in the Commercial Lease Agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\nSECTION 2. RENT AND SECURITY DEPOSIT [Commercial_Lease_Agreement.pdf, Page 1]\nUpon execution of this Lease, Lessee shall deposit with Lessor the sum of Ten Thousand Dollars ($10,000.00) [Commercial_Lease_Agreement.pdf, Page 1]\nas a Security Deposit. The Security Deposit shall be returned to Lessee within thirty (30) days after Lessee [Commercial_Lease_Agreement.pdf, Page 1]",
+          "citations": [
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            },
+            {
+              "doc_name": "Mutual_NDA_Agreement.pdf",
+              "page_number": 1,
+              "score": 1.2978,
+              "snippet": "MUTUAL NON-DISCLOSURE AGREEMENT\nPREAMBLE\nThis Mutual Non-Disclosure Agreement ('Agreement') is entered into on January 15, 2025 ('Effective Date'), by\nand between Apex AI Technologies Corp., a Delaware corporation ('Disclosing Party'), and Nexus Lega..."
+            },
+            {
+              "doc_name": "SaaS_Terms_of_Service.pdf",
+              "page_number": 1,
+              "score": 1.5096,
+              "snippet": "IN THE TWELVE (12) MONTH PERIOD PRECEDING THE CLAIM.\n--- PAGE BREAK ---\nSECTION 3. INTELLECTUAL PROPERTY AND CUSTOMER DATA\nCustomer retains all ownership, rights, and title to all data, code, files, and legal documents uploaded to the\nPlatform ('Cust..."
+            }
+          ],
+          "refused": false,
+          "model_name": "gpt-4o-mini",
+          "provider": "openai"
+        }
+      ]
+    },
+    "conv_6ef77b053b": {
+      "id": "conv_6ef77b053b",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-06T17:43:54.598272Z",
+      "updated_at": "2026-09-06T17:43:54.629990Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\nSECTION 2. RENT AND SECURITY DEPOSIT [Commercial_Lease_Agreement.pdf, Page 1]\nUpon execution of this Lease, Lessee shall deposit with Lessor the sum of Ten Thousand Dollars ($10,000.00) [Commercial_Lease_Agreement.pdf, Page 1]\nas a Security Deposit. The Security Deposit shall be returned to Lessee within thirty (30) days after Lessee [Commercial_Lease_Agreement.pdf, Page 1]",
+          "citations": [
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            },
+            {
+              "doc_name": "Mutual_NDA_Agreement.pdf",
+              "page_number": 1,
+              "score": 1.2978,
+              "snippet": "MUTUAL NON-DISCLOSURE AGREEMENT\nPREAMBLE\nThis Mutual Non-Disclosure Agreement ('Agreement') is entered into on January 15, 2025 ('Effective Date'), by\nand between Apex AI Technologies Corp., a Delaware corporation ('Disclosing Party'), and Nexus Lega..."
+            },
+            {
+              "doc_name": "SaaS_Terms_of_Service.pdf",
+              "page_number": 1,
+              "score": 1.5096,
+              "snippet": "IN THE TWELVE (12) MONTH PERIOD PRECEDING THE CLAIM.\n--- PAGE BREAK ---\nSECTION 3. INTELLECTUAL PROPERTY AND CUSTOMER DATA\nCustomer retains all ownership, rights, and title to all data, code, files, and legal documents uploaded to the\nPlatform ('Cust..."
+            }
+          ],
+          "refused": false,
+          "model_name": "gpt-4o-mini",
+          "provider": "openai"
+        }
+      ]
+    },
+    "conv_c61c8842bd": {
+      "id": "conv_c61c8842bd",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-06T17:52:05.239423Z",
+      "updated_at": "2026-09-06T17:52:05.272255Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\nSECTION 2. RENT AND SECURITY DEPOSIT [Commercial_Lease_Agreement.pdf, Page 1]\nUpon execution of this Lease, Lessee shall deposit with Lessor the sum of Ten Thousand Dollars ($10,000.00) [Commercial_Lease_Agreement.pdf, Page 1]\nas a Security Deposit. The Security Deposit shall be returned to Lessee within thirty (30) days after Lessee [Commercial_Lease_Agreement.pdf, Page 1]",
+          "citations": [
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            },
+            {
+              "doc_name": "Mutual_NDA_Agreement.pdf",
+              "page_number": 1,
+              "score": 1.2978,
+              "snippet": "MUTUAL NON-DISCLOSURE AGREEMENT\nPREAMBLE\nThis Mutual Non-Disclosure Agreement ('Agreement') is entered into on January 15, 2025 ('Effective Date'), by\nand between Apex AI Technologies Corp., a Delaware corporation ('Disclosing Party'), and Nexus Lega..."
+            },
+            {
+              "doc_name": "SaaS_Terms_of_Service.pdf",
+              "page_number": 1,
+              "score": 1.5096,
+              "snippet": "IN THE TWELVE (12) MONTH PERIOD PRECEDING THE CLAIM.\n--- PAGE BREAK ---\nSECTION 3. INTELLECTUAL PROPERTY AND CUSTOMER DATA\nCustomer retains all ownership, rights, and title to all data, code, files, and legal documents uploaded to the\nPlatform ('Cust..."
+            }
+          ],
+          "refused": false,
+          "model_name": "gpt-4o-mini",
+          "provider": "openai"
+        }
+      ]
+    },
+    "conv_6385eb7073": {
+      "id": "conv_6385eb7073",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-11T13:34:02.925326Z",
+      "updated_at": "2026-09-11T13:34:02.954091Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\nSECTION 2. RENT AND SECURITY DEPOSIT [Commercial_Lease_Agreement.pdf, Page 1]\nUpon execution of this Lease, Lessee shall deposit with Lessor the sum of Ten Thousand Dollars ($10,000.00) [Commercial_Lease_Agreement.pdf, Page 1]\nas a Security Deposit. The Security Deposit shall be returned to Lessee within thirty (30) days after Lessee [Commercial_Lease_Agreement.pdf, Page 1]",
+          "citations": [
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            },
+            {
+              "doc_name": "Mutual_NDA_Agreement.pdf",
+              "page_number": 1,
+              "score": 1.2978,
+              "snippet": "MUTUAL NON-DISCLOSURE AGREEMENT\nPREAMBLE\nThis Mutual Non-Disclosure Agreement ('Agreement') is entered into on January 15, 2025 ('Effective Date'), by\nand between Apex AI Technologies Corp., a Delaware corporation ('Disclosing Party'), and Nexus Lega..."
+            },
+            {
+              "doc_name": "SaaS_Terms_of_Service.pdf",
+              "page_number": 1,
+              "score": 1.5096,
+              "snippet": "IN THE TWELVE (12) MONTH PERIOD PRECEDING THE CLAIM.\n--- PAGE BREAK ---\nSECTION 3. INTELLECTUAL PROPERTY AND CUSTOMER DATA\nCustomer retains all ownership, rights, and title to all data, code, files, and legal documents uploaded to the\nPlatform ('Cust..."
+            }
+          ],
+          "refused": false,
+          "model_name": "gpt-4o-mini",
+          "provider": "openai"
+        }
+      ]
+    },
+    "conv_eee768cd82": {
+      "id": "conv_eee768cd82",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-11T13:52:23.467336Z",
+      "updated_at": "2026-09-11T13:52:23.507755Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\nSECTION 2. RENT AND SECURITY DEPOSIT [Commercial_Lease_Agreement.pdf, Page 1]\nUpon execution of this Lease, Lessee shall deposit with Lessor the sum of Ten Thousand Dollars ($10,000.00) [Commercial_Lease_Agreement.pdf, Page 1]\nas a Security Deposit. The Security Deposit shall be returned to Lessee within thirty (30) days after Lessee [Commercial_Lease_Agreement.pdf, Page 1]",
+          "citations": [
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            },
+            {
+              "doc_name": "Mutual_NDA_Agreement.pdf",
+              "page_number": 1,
+              "score": 1.2978,
+              "snippet": "MUTUAL NON-DISCLOSURE AGREEMENT\nPREAMBLE\nThis Mutual Non-Disclosure Agreement ('Agreement') is entered into on January 15, 2025 ('Effective Date'), by\nand between Apex AI Technologies Corp., a Delaware corporation ('Disclosing Party'), and Nexus Lega..."
+            },
+            {
+              "doc_name": "SaaS_Terms_of_Service.pdf",
+              "page_number": 1,
+              "score": 1.5096,
+              "snippet": "IN THE TWELVE (12) MONTH PERIOD PRECEDING THE CLAIM.\n--- PAGE BREAK ---\nSECTION 3. INTELLECTUAL PROPERTY AND CUSTOMER DATA\nCustomer retains all ownership, rights, and title to all data, code, files, and legal documents uploaded to the\nPlatform ('Cust..."
+            }
+          ],
+          "refused": false,
+          "model_name": "gpt-4o-mini",
+          "provider": "openai"
+        }
+      ]
+    },
+    "conv_eef3203c88": {
+      "id": "conv_eef3203c88",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-11T14:06:05.944004Z",
+      "updated_at": "2026-09-11T14:06:06.005478Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\nSECTION 2. RENT AND SECURITY DEPOSIT [Commercial_Lease_Agreement.pdf, Page 1]\nUpon execution of this Lease, Lessee shall deposit with Lessor the sum of Ten Thousand Dollars ($10,000.00) [Commercial_Lease_Agreement.pdf, Page 1]\nas a Security Deposit. The Security Deposit shall be returned to Lessee within thirty (30) days after Lessee [Commercial_Lease_Agreement.pdf, Page 1]",
+          "citations": [
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            },
+            {
+              "doc_name": "Mutual_NDA_Agreement.pdf",
+              "page_number": 1,
+              "score": 1.2978,
+              "snippet": "MUTUAL NON-DISCLOSURE AGREEMENT\nPREAMBLE\nThis Mutual Non-Disclosure Agreement ('Agreement') is entered into on January 15, 2025 ('Effective Date'), by\nand between Apex AI Technologies Corp., a Delaware corporation ('Disclosing Party'), and Nexus Lega..."
+            },
+            {
+              "doc_name": "SaaS_Terms_of_Service.pdf",
+              "page_number": 1,
+              "score": 1.5096,
+              "snippet": "IN THE TWELVE (12) MONTH PERIOD PRECEDING THE CLAIM.\n--- PAGE BREAK ---\nSECTION 3. INTELLECTUAL PROPERTY AND CUSTOMER DATA\nCustomer retains all ownership, rights, and title to all data, code, files, and legal documents uploaded to the\nPlatform ('Cust..."
+            }
+          ],
+          "refused": false,
+          "model_name": "gpt-4o-mini",
+          "provider": "openai"
+        }
+      ]
+    },
+    "conv_c42b912cfb": {
+      "id": "conv_c42b912cfb",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-11T14:11:54.763658Z",
+      "updated_at": "2026-09-11T14:11:54.818693Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\nSECTION 2. RENT AND SECURITY DEPOSIT [Commercial_Lease_Agreement.pdf, Page 1]\nUpon execution of this Lease, Lessee shall deposit with Lessor the sum of Ten Thousand Dollars ($10,000.00) [Commercial_Lease_Agreement.pdf, Page 1]\nas a Security Deposit. The Security Deposit shall be returned to Lessee within thirty (30) days after Lessee [Commercial_Lease_Agreement.pdf, Page 1]",
+          "citations": [
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            },
+            {
+              "doc_name": "Mutual_NDA_Agreement.pdf",
+              "page_number": 1,
+              "score": 1.2978,
+              "snippet": "MUTUAL NON-DISCLOSURE AGREEMENT\nPREAMBLE\nThis Mutual Non-Disclosure Agreement ('Agreement') is entered into on January 15, 2025 ('Effective Date'), by\nand between Apex AI Technologies Corp., a Delaware corporation ('Disclosing Party'), and Nexus Lega..."
+            },
+            {
+              "doc_name": "SaaS_Terms_of_Service.pdf",
+              "page_number": 1,
+              "score": 1.5096,
+              "snippet": "IN THE TWELVE (12) MONTH PERIOD PRECEDING THE CLAIM.\n--- PAGE BREAK ---\nSECTION 3. INTELLECTUAL PROPERTY AND CUSTOMER DATA\nCustomer retains all ownership, rights, and title to all data, code, files, and legal documents uploaded to the\nPlatform ('Cust..."
+            }
+          ],
+          "refused": false,
+          "model_name": "gpt-4o-mini",
+          "provider": "openai"
+        }
+      ]
+    },
+    "conv_e89dd3c57c": {
+      "id": "conv_e89dd3c57c",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-11T14:14:38.254596Z",
+      "updated_at": "2026-09-11T14:14:38.329426Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\nSECTION 2. RENT AND SECURITY DEPOSIT [Commercial_Lease_Agreement.pdf, Page 1]\nUpon execution of this Lease, Lessee shall deposit with Lessor the sum of Ten Thousand Dollars ($10,000.00) [Commercial_Lease_Agreement.pdf, Page 1]\nas a Security Deposit. The Security Deposit shall be returned to Lessee within thirty (30) days after Lessee [Commercial_Lease_Agreement.pdf, Page 1]",
+          "citations": [
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            },
+            {
+              "doc_name": "Mutual_NDA_Agreement.pdf",
+              "page_number": 1,
+              "score": 1.2978,
+              "snippet": "MUTUAL NON-DISCLOSURE AGREEMENT\nPREAMBLE\nThis Mutual Non-Disclosure Agreement ('Agreement') is entered into on January 15, 2025 ('Effective Date'), by\nand between Apex AI Technologies Corp., a Delaware corporation ('Disclosing Party'), and Nexus Lega..."
+            },
+            {
+              "doc_name": "SaaS_Terms_of_Service.pdf",
+              "page_number": 1,
+              "score": 1.5096,
+              "snippet": "IN THE TWELVE (12) MONTH PERIOD PRECEDING THE CLAIM.\n--- PAGE BREAK ---\nSECTION 3. INTELLECTUAL PROPERTY AND CUSTOMER DATA\nCustomer retains all ownership, rights, and title to all data, code, files, and legal documents uploaded to the\nPlatform ('Cust..."
+            }
+          ],
+          "refused": false,
+          "model_name": "gpt-4o-mini",
+          "provider": "openai"
+        }
+      ]
+    },
+    "conv_fb5bcfe9f1": {
+      "id": "conv_fb5bcfe9f1",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-11T14:42:48.980968Z",
+      "updated_at": "2026-09-11T14:42:49.023279Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\nSECTION 14.1 SECURITY DEPOSIT. Tenant has deposited with Landlord the sum of Fifty Thousand Dollars ($50,000) as security for the faithful performance by Tenant of all the terms, covenants, and conditions of this Lease. [CUAD_Sample_Commercial_Lease.pdf, Page 1]\nSECTION 2. RENT AND SECURITY DEPOSIT [Commercial_Lease_Agreement.pdf, Page 1]\nUpon execution of this Lease, Lessee shall deposit with Lessor the sum of Ten Thousand Dollars ($10,000.00) [Commercial_Lease_Agreement.pdf, Page 1]",
+          "citations": [
+            {
+              "doc_name": "CUAD_Sample_Commercial_Lease.pdf",
+              "page_number": 1,
+              "score": 0.5405,
+              "snippet": "SECTION 14.1 SECURITY DEPOSIT. Tenant has deposited with Landlord the sum of Fifty Thousand Dollars ($50,000) as security for the faithful performance by Tenant of all the terms, covenants, and conditions of this Lease."
+            },
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            }
+          ],
+          "refused": false,
+          "model_name": "gpt-4o-mini",
+          "provider": "openai"
+        }
+      ]
+    },
+    "conv_578c303f1c": {
+      "id": "conv_578c303f1c",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-11T15:13:08.802517Z",
+      "updated_at": "2026-09-11T15:13:08.868009Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "The security deposit required under the commercial lease agreement is Ten Thousand Dollars ($10,000.00) [Commercial_Lease_Agreement.pdf, Page 1].",
+          "citations": [
+            {
+              "doc_name": "CUAD_Sample_Commercial_Lease.pdf",
+              "page_number": 1,
+              "score": 0.5405,
+              "snippet": "SECTION 14.1 SECURITY DEPOSIT. Tenant has deposited with Landlord the sum of Fifty Thousand Dollars ($50,000) as security for the faithful performance by Tenant of all the terms, covenants, and conditions of this Lease."
+            },
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            }
+          ],
+          "refused": false,
+          "model_name": "openai/gpt-oss-120b",
+          "provider": "groq"
+        }
+      ]
+    },
+    "conv_3d17d99808": {
+      "id": "conv_3d17d99808",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-11T15:16:38.949605Z",
+      "updated_at": "2026-09-11T15:16:39.015501Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "The lease requires the Lessee to deposit **Ten Thousand Dollars ($10,000.00)** as the security deposit [Commercial_Lease_Agreement.pdf, Page 1].",
+          "citations": [
+            {
+              "doc_name": "CUAD_Sample_Commercial_Lease.pdf",
+              "page_number": 1,
+              "score": 0.5405,
+              "snippet": "SECTION 14.1 SECURITY DEPOSIT. Tenant has deposited with Landlord the sum of Fifty Thousand Dollars ($50,000) as security for the faithful performance by Tenant of all the terms, covenants, and conditions of this Lease."
+            },
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            }
+          ],
+          "refused": false,
+          "model_name": "openai/gpt-oss-120b",
+          "provider": "groq"
+        }
+      ]
+    },
+    "conv_c1e6366621": {
+      "id": "conv_c1e6366621",
+      "title": "explain this",
+      "created_at": "2026-09-11T16:19:01.019997Z",
+      "updated_at": "2026-09-11T16:36:46.950741Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "explain this"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "I don't know based on the provided legal documents.",
+          "citations": [
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 58,
+              "score": 1.6293,
+              "snippet": "..................................... to act as my attorney in place of the said attorney after his de ath or \nduring such inability or unwillingness and in the l atter case during the subsistence of any such"
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 39,
+              "score": 1.6303,
+              "snippet": "AND WHEREAS the term hereto parties shall always be deemed to mean and include \ntheir respective legal heirs, assigns, executors ad ministrators, representative, nominees and \nattorneys. \n \nNOW THEREFORE THIS DISSOLUTION WITNESSED AS UNDER:- \n1. THAT..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 19,
+              "score": 1.6327,
+              "snippet": "unexpired lease term and interest created by the sa id lease deed TO the intent that the same \nterms and interests may merge and be extinguished i n the reversion which was immediately \nexpectant thereon before the execution of this deed AND THE LESS..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 13,
+              "score": 1.6401,
+              "snippet": "(b) To pay the electricity bills for the electricit y consumed for lighting the demised premises \nand for operation of Air Conditioners, Fans, Comput ers and electrical appliances in the \ndemised premises. \n(c) Not to make any structural alterations ..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 16,
+              "score": 1.6556,
+              "snippet": "16 \n \n14. The landlord shall retain the original of this agre ement and the tenant shall retain its \nduplicate. \n \nWITNESS WHEREOF _______, the landlord and _________ , the tenant have affixed \ntheir signatures on the __________ . \n \n \n______________..."
+            }
+          ],
+          "refused": true,
+          "model_name": "llama-3.3-70b-versatile",
+          "provider": "groq"
+        },
+        {
+          "id": 3,
+          "sender": "user",
+          "text": "What are the termination penalties and notice requirements?"
+        },
+        {
+          "id": 4,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\nSECTION 22.1 TERMINATION FOR CONVENIENCE. Either party may terminate this Lease upon ninety (90) days prior written notice to the other party after the initial twelve (12) month period. [CUAD_Sample_Commercial_Lease.pdf, Page 1]\ndate of the receipt of such notice. [pages-29-deed-sample.pdf, Page 18]\nfor service of all notices and other communications shall be as under: [pages-29-deed-sample.pdf, Page 18]",
+          "citations": [
+            {
+              "doc_name": "CUAD_Sample_Commercial_Lease.pdf",
+              "page_number": 1,
+              "score": 1.0009,
+              "snippet": "SECTION 22.1 TERMINATION FOR CONVENIENCE. Either party may terminate this Lease upon ninety (90) days prior written notice to the other party after the initial twelve (12) month period."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 18,
+              "score": 1.078,
+              "snippet": "18 \n \nor persons duly authorised by him in that behalf at any time may terminate the tenancy \nand may enter into and upon the dwelling house prov ided that the tenancy shall not be \nterminated and no re-entry shall be made under the foregoing power, ..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 23,
+              "score": 1.1107,
+              "snippet": "and/or remedy the breach and in case if the License e fails to remedy the breach within a \nperiod of four weeks from the date of the receipt o f the notice in writing in that behalf from the \nLicensors, then in that event, the Licensors shall be enti..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 15,
+              "score": 1.2037,
+              "snippet": "the vacant possession of the premises without raisi ng any objection. \n4. This rental agreement can be terminated at any time by three months notice on either side \nand on such termination the tenant shall surrender the vacant possession of the premi..."
+            }
+          ],
+          "refused": false,
+          "model_name": "llama-3.3-70b-versatile",
+          "provider": "groq"
+        },
+        {
+          "id": 5,
+          "sender": "user",
+          "text": "What is the governing law and dispute resolution mechanism?"
+        },
+        {
+          "id": 6,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\n(i) To settle, compromise or compound any disputes or refer the same to arbitration [pages-29-deed-sample.pdf, Page 32]\n21. That all the disputes or differences arising ou t of it and connected with the Partnership shall [pages-29-deed-sample.pdf, Page 27]\npursuance to the resolution passed in that behalf o n ---------------- here into affixed in the [pages-29-deed-sample.pdf, Page 27]",
+          "citations": [
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 32,
+              "score": 1.1479,
+              "snippet": "32 \n \n(f) To execute Power of Attorney or Powers of Attor ney to any person for the purpose of \nexecuting, administering or managing the whole or a ny part of the Trust for the \npurpose of all or some objects of the Trust. \n(g) To borrow money with o..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 27,
+              "score": 1.1509,
+              "snippet": "partner mutually decided by the parties to the part nership. \n19.That it will always remain open to the parties h ereto to amend, annul or change any term or \nterms of this Deed of Partnership in the course of its business and in that event of \namend..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 56,
+              "score": 1.2423,
+              "snippet": "being in force or other returns, statements, papers , documents in connection with the aforesaid \nActs, to sign and/or submit returns, statements of accounts, balance sheets, declaration forms, \nto receive refund orders or vouchers from any of th e a..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 1,
+              "score": 1.2543,
+              "snippet": "assign, limit or extinguish, whether in present or in future, any right, title or interest, \nwhether vested or contingent, of the value of one h undred rupees, and upwards, to \nor in immovable property \n3. Non-testamentary instruments which acknowled..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 66,
+              "score": 1.2592,
+              "snippet": "66 \n \n \nAnd whereas differences and disputes have arisen am ongst the legal heirs of said \ndeceased………… as to the respective share of the heir s. \n \nAnd whereas the parties hereto desire and have agre ed that the disputes and \ndifferences between the..."
+            }
+          ],
+          "refused": false,
+          "model_name": "llama-3.3-70b-versatile",
+          "provider": "groq"
+        },
+        {
+          "id": 7,
+          "sender": "user",
+          "text": "What is the limitation of liability under this agreement?"
+        },
+        {
+          "id": 8,
+          "sender": "assistant",
+          "text": "Based on the retrieved legal context:\nSECTION 8.2 LIMITATION OF LIABILITY. In no event shall Landlord's cumulative liability under this Lease exceed One Hundred Thousand Dollars ($100,000). [CUAD_Sample_Commercial_Lease.pdf, Page 1]",
+          "citations": [
+            {
+              "doc_name": "CUAD_Sample_Commercial_Lease.pdf",
+              "page_number": 1,
+              "score": 0.7981,
+              "snippet": "SECTION 8.2 LIMITATION OF LIABILITY. In no event shall Landlord's cumulative liability under this Lease exceed One Hundred Thousand Dollars ($100,000)."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 21,
+              "score": 0.9498,
+              "snippet": "but subject to what is stated hereinafter; \n(g) Not to hold the Licensors responsible for or liable for any loss or damage suffered by the \nLicensee on account of any theft, fire or other des truction caused to or in the said \npremises or to any prop..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 23,
+              "score": 0.9757,
+              "snippet": "(f) Not to create charge mortgage or encumbrance in respect of the said premises or any \npart of portion thereof; \n(g) Not to sell, transfer or assign the Licensor’s ownership rights in respect of the licensed \npremises to any person or party so as t..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 26,
+              "score": 0.9821,
+              "snippet": "8. That the Profits & Losses shall be divided between and borne by parties hereto in the \nfollowing proportions: \nPartner……………………. % of share in Profits and Losses \n \n \n9. That the partners will be paid a Salary of Rs._____ ______/- per month for the..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 22,
+              "score": 1.0052,
+              "snippet": "premises or any portion thereof. \n(l) To make good to the Licensors any loss or damage th at may be caused to the said \npremises or any other fittings, fixtures, articles or property of the Licensors therein as a \nresult of negligence on the part of ..."
+            }
+          ],
+          "refused": false,
+          "model_name": "llama-3.3-70b-versatile",
+          "provider": "groq"
+        }
+      ]
+    },
+    "conv_bc87d3bf79": {
+      "id": "conv_bc87d3bf79",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-11T16:37:03.574022Z",
+      "updated_at": "2026-09-11T16:37:03.647415Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "The commercial lease agreement requires the lessee to deposit **Ten Thousand Dollars ($10,000.00)** as a security deposit [Commercial_Lease_Agreement.pdf, Page 1].",
+          "citations": [
+            {
+              "doc_name": "CUAD_Sample_Commercial_Lease.pdf",
+              "page_number": 1,
+              "score": 0.5405,
+              "snippet": "SECTION 14.1 SECURITY DEPOSIT. Tenant has deposited with Landlord the sum of Fifty Thousand Dollars ($50,000) as security for the faithful performance by Tenant of all the terms, covenants, and conditions of this Lease."
+            },
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 13,
+              "score": 0.9944,
+              "snippet": "13 \n \nLessee in common with the Lessor and all the person s authorised by the Lessor to use the \nentrances, doorways, entrance hall, stair cases, la ndings and passages in the demised \npremises for the purpose of ingress thereto. \n \n(a) The Lessee sh..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 12,
+              "score": 1.0972,
+              "snippet": "12 \n \nThis is neither an assigned nor a Government land. The market value of the property is \nRs………………. (Rupees…………………………………………………………………….) only \n \n \n \n \nSigned and delivered by the within named Vendor Mr. ………. in the presence of ... \n1. \n2. \n \n \n4. ..."
+            }
+          ],
+          "refused": false,
+          "model_name": "openai/gpt-oss-120b",
+          "provider": "groq"
+        }
+      ]
+    },
+    "conv_971ee56a53": {
+      "id": "conv_971ee56a53",
+      "title": "explain this",
+      "created_at": "2026-09-11T16:38:38.538194Z",
+      "updated_at": "2026-09-11T16:38:38.538194Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "explain this"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "**Executive Legal Summary – “Deed of Partition / Conditional Sale”**  \n*Source: **pages‑29‑deed‑sample.pdf***  \n\n---\n\n## 1. Document Overview & Purpose  \n\n| Element | Description |\n|---------|-------------|\n| **Type of instrument** | A **Deed of Partition** (with elements of a **Relinquishment/Release Deed**) together with a **Deed of Mortgage by Conditional Sale**. |\n| **Primary objective** | 1. **Partition and allocation** of a larger tract of land among three parties (First, Second, and Third parties) so that each becomes the **sole and absolute owner** of the allotted portion. <br>2. **Transfer of title** from the Vendor (First Party) to the Purchaser (Second Party) in exchange for a monetary advance, creating a conditional‑sale mortgage arrangement. |\n| **Legal effect** | Upon execution, each party holds **full title, rights, and obligations** over the specific parcel assigned to them, and the original partition deed is retained by the First Party for future reference. |\n\n*References: [pages‑29‑deed‑sample.pdf, Page 42]; [pages‑29‑deed‑sample.pdf, Page 10]; [pages‑29‑deed‑sample.pdf, Page 43].*\n\n---\n\n## 2. Key Parties & Roles  \n\n| Party | Designation in the deed | Role / Interest |\n|-------|------------------------|-----------------|\n| **First Party** | “First Party” (also referred to as the **Vendor** in the conditional‑sale section) | Original owner of the whole property; retains the **original deed of partition**; conveys a portion (First Schedule property) to the Second Party. |\n| **Second Party** | “Second Party” (also the **Purchaser**) | Receives the **Second Scheduled property** by exchange; advances the purchase price to the Vendor; becomes owner of the conveyed parcel. |\n| **Third Party** | “Third Party” | Receives the **Third Scheduled property** under the partition; becomes sole owner of that parcel. |\n| **Witnesses** | Two individuals (named only as “1………………………..” and “2………………………..”) | Provide attestation of execution. |\n\n*References: [pages‑29‑deed‑sample.pdf, Page 42]; [pages‑29‑deed‑sample.pdf, Page 10].*\n\n---\n\n## 3. Core Terms & Obligations  \n\n| Clause | Summary of Rights/Duties |\n|--------|--------------------------|\n| **Consideration & Release** | Each party **relinquishes** any interest it may have in the other parties’ allotted parcels and **conveys** its own interest to the counterpart, making each party the **sole owner** of its assigned land (clause 1, p. 42). |\n| **Retention of Original Partition Deed** | The **First Party** keeps the original partition deed; a true copy is signed by all parties and may be produced on demand to courts, banks, etc. (clause 2, p. 42). |\n| **Tax & Public Charges** | All **taxes, rates, duties, and other public charges** relating to each allotted property are to be borne **individually** by the respective owners (clause 3, p. 42). |\n| **Exchange of Property** | The First Party **conveys** the First‑Schedule property to the Second Party **by way of exchange**, subject to payment of all rents, taxes, and assessments now or later due to the local authority (p. 46). |\n| **Valuation** | The **total value** of the entire property subject to the partition is fixed at **Rs. __________** (clause 5, p. 43). |\n| **Further Acts & Mutation** | Each party must execute any additional deeds or acts **necessary to perfect title**, including appearing before revenue authorities for **mutation** of the land in its name, at its own cost (clause 4, p. 43). |\n| **Mortgage by Conditional Sale** | The Vendor (First Party) **receives** a sum of **Rs. ……** from the Purchaser (Second Party) and, in consideration, **grants and conveys** the property to the Purchaser, creating a **mortgage‑by‑sale** security (p. 10). |\n| **Receipt of Consideration** | The Vendor **acknowledges receipt** of the purchase price upon execution of the deed (p. 10). |\n\n---\n\n## 4. Key Provisions & Governing Law  \n\n| Provision | Content |\n|-----------|---------|\n| **Duration / Effectiveness** | The deed becomes effective **upon execution** and the parties take **possession** of their allotted parcels immediately (p. 42). |\n| **Termination / Release** | The **relinquishment/release** of interests (clause 1, p. 42) serves as the final termination of any prior co‑ownership claims. |\n| **Governing Jurisdiction** | While the document does not explicitly name a jurisdiction, the language (“Rs.”, “revenue authorities”, “mutation”) indicates **Indian law** and the **relevant state revenue statutes** governing immovable property. |\n| **Registration Requirement** | The **relinquishment deed** must be **written and registered** to be effective (see explanatory note on relinquishment, p. 10). |\n| **Witness & Execution Formalities** | Execution requires **signatures** of all parties and **two witnesses**; the original deed is retained by the First Party (p. 42). |\n| **Tax & Charge Allocation** | Each party is **solely responsible** for taxes and public charges on its own parcel (p. 42). |\n| **Valuation & Consideration** | The **aggregate valuation** of the property is fixed (p. 43); the **consideration** for the conditional‑sale mortgage is the sum advanced by the Purchaser (p. 10). |\n\n---\n\n### Bottom‑Line Takeaway  \n\n- The deed **splits** a larger estate into three distinct parcels, making each party the **exclusive owner** of its portion.  \n- The **First Party** (Vendor) receives a **cash advance** from the **Second Party** (Purchaser) and, in return, **conveys** a specific parcel by way of a **conditional‑sale mortgage**.  \n- All parties must **register** the relinquishment, **pay** their own taxes, and **complete any ancillary filings** (mutation) to perfect title.  \n- The **original partition deed** stays with the First Party for evidentiary purposes, and the agreement is governed by the **applicable Indian property and revenue law**.  \n\n*Prepared solely from the supplied excerpts of **pages‑29‑deed‑sample.pdf**.*",
+          "citations": [
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 42,
+              "score": 0.8518,
+              "snippet": "at……………..bearing the No………detailed in Scheduled 2 t o this deed to second party and \nthe land along with the trees standing thereon comp rising an area of…………….situated \nat……………bearing No………………….detailed in Schedule 3 to this deed to the third party...."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 10,
+              "score": 0.9047,
+              "snippet": "10 \n \nDEED OF MORTGAGE BY CONDITIONAL SALE \n \nTHIS DEED OF Sale made at ………. this …... day of ……… ..... between ………….. residing at \n……………………………….... hereinafter referred to as the VEN DOR, of the One Part, \nAnd \n…………… residing at ……………..... hereinaft..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 43,
+              "score": 0.9063,
+              "snippet": "43 \n \n4. That each party will execute such deed or do all ot her acts necessary which may be \nrequisite for more effectually assuring the party s o requiring and at his cost, in the manner \nrequired by law and appear before revenue or other authoriti..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 46,
+              "score": 0.9618,
+              "snippet": "the party of the First Part TO HAVE AND TO HOLD the said Second Scheduled property \nhereby granted and conveyed by way of exchange unto and to the use and benefit of the party \nhereto of the First Part subject to payment of all rents, taxes, assessme..."
+            }
+          ],
+          "refused": false,
+          "model_name": "openai/gpt-oss-120b",
+          "provider": "groq"
+        }
+      ]
+    },
+    "conv_b2c6129ba3": {
+      "id": "conv_b2c6129ba3",
+      "title": "Lease Security Deposit Clause Review 2026",
+      "created_at": "2026-09-11T16:38:49.705460Z",
+      "updated_at": "2026-09-11T16:38:49.743710Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "What is the security deposit amount in the commercial lease agreement?"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "The security deposit required under the commercial lease agreement is **Ten Thousand Dollars ($10,000.00)** [Commercial_Lease_Agreement.pdf, Page 1].",
+          "citations": [
+            {
+              "doc_name": "CUAD_Sample_Commercial_Lease.pdf",
+              "page_number": 1,
+              "score": 0.5405,
+              "snippet": "SECTION 14.1 SECURITY DEPOSIT. Tenant has deposited with Landlord the sum of Fifty Thousand Dollars ($50,000) as security for the faithful performance by Tenant of all the terms, covenants, and conditions of this Lease."
+            },
+            {
+              "doc_name": "Commercial_Lease_Agreement.pdf",
+              "page_number": 1,
+              "score": 0.7121,
+              "snippet": "COMMERCIAL OFFICE LEASE AGREEMENT\nPREAMBLE\nThis Commercial Office Lease Agreement ('Lease') is made effective as of March 1, 2025, by and between\nMetropolis Property Management LLC ('Lessor') and Horizon Tech Solutions Inc. ('Lessee').\nSECTION 1. DEM..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 13,
+              "score": 0.9944,
+              "snippet": "13 \n \nLessee in common with the Lessor and all the person s authorised by the Lessor to use the \nentrances, doorways, entrance hall, stair cases, la ndings and passages in the demised \npremises for the purpose of ingress thereto. \n \n(a) The Lessee sh..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 12,
+              "score": 1.0972,
+              "snippet": "12 \n \nThis is neither an assigned nor a Government land. The market value of the property is \nRs………………. (Rupees…………………………………………………………………….) only \n \n \n \n \nSigned and delivered by the within named Vendor Mr. ………. in the presence of ... \n1. \n2. \n \n \n4. ..."
+            }
+          ],
+          "refused": false,
+          "model_name": "openai/gpt-oss-120b",
+          "provider": "groq"
+        }
+      ]
+    }
+  }
+}
