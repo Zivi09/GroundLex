@@ -755,6 +755,59 @@
           "provider": "groq"
         }
       ]
+    },
+    "conv_338e1a95a1": {
+      "id": "conv_338e1a95a1",
+      "title": "hey",
+      "created_at": "2026-09-11T17:12:17.432127Z",
+      "updated_at": "2026-09-11T17:12:17.432127Z",
+      "messages": [
+        {
+          "id": 1,
+          "sender": "user",
+          "text": "hey"
+        },
+        {
+          "id": 2,
+          "sender": "assistant",
+          "text": "I don't know based on the provided legal documents.",
+          "citations": [
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 6,
+              "score": 1.7002,
+              "snippet": "……………………………… Sub-District and \n \nBounded by: \nEast : \nWest : \nNorth : \nSouth : \n \nTHE MEASUREMENTS: \nSl no Boundary Pillars numbers Surface distance Horizontal distance"
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 5,
+              "score": 1.7985,
+              "snippet": "(a) That the DONOR now has in himself, good right, full power and absolute authority to grant \nthe said piece of land and other the premises hereb y granted as gift in the manner \naforesaid. \n(b) The DONEE may at all times hereafter peaceably and qui..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 52,
+              "score": 1.8047,
+              "snippet": "of it as often as be desired to view the state of r epair thereof and to require any occupier as a \nresult of such view to remedy any want of repair or abate any nuisance. \n2.9. To enforce covenants:- To enforce any covenant in any lease, licence or ..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 56,
+              "score": 1.8106,
+              "snippet": "56 \n \nexecute, sign and register mortgage, charges, trans fer and/or give other security or securities \nby any other deed or deeds on such terms and condit ions as my said attorney or his substitute \nor substitutes may think fit and proper. \n6.2. Loa..."
+            },
+            {
+              "doc_name": "pages-29-deed-sample.pdf",
+              "page_number": 55,
+              "score": 1.813,
+              "snippet": "me. \n \n6. Money: \n6.1. To realise loans or borrow money:- To realise loans and/or borrow money from time \nto time from any bank, institution, or any person o r persons, organisation whatsoever against \nthe security or properties both movable and immo..."
+            }
+          ],
+          "refused": true,
+          "model_name": "auto",
+          "provider": "auto"
+        }
+      ]
     }
   }
 }

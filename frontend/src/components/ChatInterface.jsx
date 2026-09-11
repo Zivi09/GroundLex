@@ -26,9 +26,23 @@ export default function ChatInterface({
   const [activeConvId, setActiveConvId] = useState(conversationId || null);
   const [selectedChunkModal, setSelectedChunkModal] = useState(null);
 
+  const fileInputRef = useRef(null);
+  const titleInputRef = useRef(null);
+  const chatEndRef = useRef(null);
+
   // Inline Title Editing state
   const [isEditingTitle, setIsEditingTitle] = useState(false);
   const [titleText, setTitleText] = useState(conversationTitle || "What are the main differences between RAG and fine-tuning for legal AI?");
+
+  useEffect(() => {
+    if (isEditingTitle && titleInputRef.current) {
+      titleInputRef.current.focus();
+    }
+  }, [isEditingTitle]);
+
+  useEffect(() => {
+    chatEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  }, [messages, isLoading]);
 
   const modelOptions = [
     { label: 'Auto (Smart LLM Router)', provider: 'auto', model_name: 'auto', desc: 'Auto-detect active API key' },
